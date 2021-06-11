@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ranpav/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/ranpav/static/js/main.ae5a68bf.chunk.js",
-    "main.js.map": "/ranpav/static/js/main.ae5a68bf.chunk.js.map",
+    "main.js": "/ranpav/static/js/main.1b9b9dc2.chunk.js",
+    "main.js.map": "/ranpav/static/js/main.1b9b9dc2.chunk.js.map",
     "runtime-main.js": "/ranpav/static/js/runtime-main.603e163f.js",
     "runtime-main.js.map": "/ranpav/static/js/runtime-main.603e163f.js.map",
     "static/js/2.abb86748.chunk.js": "/ranpav/static/js/2.abb86748.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.603e163f.js",
     "static/js/2.abb86748.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.ae5a68bf.chunk.js"
+    "static/js/main.1b9b9dc2.chunk.js"
   ]
 }
