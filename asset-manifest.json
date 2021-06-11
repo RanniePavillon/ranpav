@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ranpav/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/ranpav/static/js/main.56ba5853.chunk.js",
-    "main.js.map": "/ranpav/static/js/main.56ba5853.chunk.js.map",
+    "main.css": "/ranpav/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/ranpav/static/js/main.ae5a68bf.chunk.js",
+    "main.js.map": "/ranpav/static/js/main.ae5a68bf.chunk.js.map",
     "runtime-main.js": "/ranpav/static/js/runtime-main.603e163f.js",
     "runtime-main.js.map": "/ranpav/static/js/runtime-main.603e163f.js.map",
     "static/js/2.abb86748.chunk.js": "/ranpav/static/js/2.abb86748.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.20b24b2c.chunk.js": "/ranpav/static/js/3.20b24b2c.chunk.js",
     "static/js/3.20b24b2c.chunk.js.map": "/ranpav/static/js/3.20b24b2c.chunk.js.map",
     "index.html": "/ranpav/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/ranpav/static/css/main.6dea0f05.chunk.css.map",
+    "static/css/main.2ae47eeb.chunk.css.map": "/ranpav/static/css/main.2ae47eeb.chunk.css.map",
     "static/js/2.abb86748.chunk.js.LICENSE.txt": "/ranpav/static/js/2.abb86748.chunk.js.LICENSE.txt",
     "static/media/Rannie F. Pavillon.833190b2.jpg": "/ranpav/static/media/Rannie F. Pavillon.833190b2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.603e163f.js",
     "static/js/2.abb86748.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.56ba5853.chunk.js"
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.ae5a68bf.chunk.js"
   ]
 }
