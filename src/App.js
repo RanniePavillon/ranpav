@@ -39,9 +39,9 @@ const pageStyles = makeStyles(() => ({
 const App = () =>{
   const styles = pageStyles()
   const isMobile = useMediaQuery('(max-width:601px)')
-  const details = [{'label':'ranniepavillon@gmail.com','icon':<AlternateEmailIcon/>},{'label':'+63 9196753332','icon':<PhoneIcon/>},{'label':'#47 Airforce south signal Taguig city','icon':<LocationOnIcon/>}]
-  const skills = ['React JS','Python','API','PHP Laravel','html, css, javascript','GIT','AWS','MySql', 'PostgreSQL']
-  const experience1 = ['Internal Systems Developer','Creating integrated website as a Business tool for an ongoing project','Support for all production systems concern','Training for new framwework development','Upgrading systems from PHP native to PHP Laravel framework','Upgrading systems from PHP Laravel to ReactJS Frontend and Python as Backend','Standard file management implementation','System Integration API','Collaboration for System Implementation']
+  const details = [{'label':'ranniepavillon@gmail.com','icon':<AlternateEmailIcon/>},{'label':'ranniepavillon26@yahoo.com','icon':<AlternateEmailIcon/>},{'label':'+63 9196753332','icon':<PhoneIcon/>},{'label':'#47 Airforce south signal Taguig city','icon':<LocationOnIcon/>}]
+  const skills = ['HTML / CSS','Bootstrap','Material UI','Javascript / jQuery','ReactJS ','PHP Laravel','Aws S3 / Lambda Serverles','Python','MySql / PgSql', 'GIT']
+  const experience1 = ['Internal Systems Developer','Creating integrated website as a Business tool for an ongoing project','Support for all production systems concern','Training for new framework development','Upgrading systems from PHP native to PHP Laravel framework','Upgrading systems from PHP Laravel to ReactJS Frontend and Python as Backend','Standard file management implementation','System Integration API','Collaboration for System Implementation']
   const experience2 = ['Working student','Service crew as Crew Leader']
    return(
       <ThemeProvider theme={theme} >
